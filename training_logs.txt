@@ -1,0 +1,33 @@
+
+[2025-02-17 00:00:53] - Epoch 01 | Training Loss: 0.6992 | Val Loss: 0.6939 | Accuracy: 0.5052 | Precision: 0.4888 | Recall: 0.4517
+
+[2025-02-17 00:00:57] - Epoch 02 | Training Loss: 0.6929 | Val Loss: 0.6922 | Accuracy: 0.5160 | Precision: 0.5008 | Recall: 0.5281
+
+[2025-02-17 00:01:02] - Epoch 03 | Training Loss: 0.6910 | Val Loss: 0.6906 | Accuracy: 0.5294 | Precision: 0.5128 | Recall: 0.5862
+
+Final Evaluation on Test Set:
+Test Loss: 0.6906 | Test Accuracy: 0.5322 | Test Precision: 0.5295 | Test Recall: 0.5778
+
+=======================================================================================================================
+
+[2025-02-17 00:01:06] - Epoch 01 | Training Loss: 0.6892 | Val Loss: 0.6885 | Accuracy: 0.5388 | Precision: 0.5259 | Recall: 0.4934
+
+[2025-02-17 00:01:10] - Epoch 02 | Training Loss: 0.6876 | Val Loss: 0.6868 | Accuracy: 0.5486 | Precision: 0.5368 | Recall: 0.5025
+
+[2025-02-17 00:01:15] - Epoch 03 | Training Loss: 0.6860 | Val Loss: 0.6858 | Accuracy: 0.5620 | Precision: 0.5421 | Recall: 0.6221
+
+Final Evaluation on Test Set:
+Test Loss: 0.6857 | Test Accuracy: 0.5636 | Test Precision: 0.5589 | Test Recall: 0.6034
+
+=======================================================================================================================
+
+[2025-02-17 00:01:19] - Epoch 01 | Training Loss: 0.6846 | Val Loss: 0.6843 | Accuracy: 0.5684 | Precision: 0.5478 | Recall: 0.6291
+
+[2025-02-17 00:01:23] - Epoch 02 | Training Loss: 0.6832 | Val Loss: 0.6831 | Accuracy: 0.5748 | Precision: 0.5522 | Recall: 0.6498
+
+[2025-02-17 00:01:28] - Epoch 03 | Training Loss: 0.6818 | Val Loss: 0.6817 | Accuracy: 0.5800 | Precision: 0.5590 | Recall: 0.6328
+
+Final Evaluation on Test Set:
+Test Loss: 0.6816 | Test Accuracy: 0.5804 | Test Precision: 0.5750 | Test Recall: 0.6166
+
+=======================================================================================================================
